@@ -10,6 +10,7 @@ Tech interview instructions
 
 - **Django Python :** https://github.com/re-connect/interview-django
 - **Symfony PHP :** https://github.com/re-connect/interview-symfony
+- **NestJs :** https://github.com/re-connect/interview-nest
 
 ### Get the frontend
 
