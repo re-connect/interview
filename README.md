@@ -14,7 +14,7 @@ Tech interview instructions
 
 ### Get the frontend
 
-- **React :** https://github.com/re-connect/interview-front
+- **React :** https://github.com/re-connect/interview-react
 - **VueJs :** https://github.com/re-connect/interview-vue
 
 ## A few notices
